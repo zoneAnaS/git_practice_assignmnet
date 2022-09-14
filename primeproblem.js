@@ -7,9 +7,10 @@ for(i=1;i<=num;i++){
         count++;
     }
 }
-if(count==2){
-console.log("its a Prime Number");
+if(count==1){
+console.log("prime number");
 }
 else{
-    console.log("Not a Prime Number");
+    console.log("Not a prime number")
+
 }
