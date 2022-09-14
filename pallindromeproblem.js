@@ -10,3 +10,4 @@ if(rev==str){
 else{
     console.log("not a palindrome")
 }
+//this is the fixed code
